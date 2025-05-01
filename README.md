@@ -19,7 +19,8 @@ Easily search, select, and uninstall apps through a clean and responsive graphic
 
 ## 📸 Screenshots
 
-*Coming soon – add screenshots of your GUI here!*
+![image](https://github.com/user-attachments/assets/517d87c8-2aac-470a-a697-73d8c42f7988)
+
 
 ---
 
