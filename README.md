@@ -27,13 +27,13 @@ Easily search, select, and uninstall apps through a clean and responsive graphic
 
 1. **Download the script** or clone the repository:
     ```bash
-    git clone https://github.com/Nat-Den/powershell-app-uninstaller.git
+    git clone https://github.com/Nat-Den/Uninstaller-GUI.git
     ```
 
 2. **Run the script** in PowerShell:
     ```powershell
     Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-    .\AppUninstallerGUI.ps1
+    .\Uninstaller.ps1
     ```
 
 3. **Search, select, and uninstall** apps with ease.
